@@ -12,3 +12,4 @@
 
 // Note: side will be an integer
 const cubeChecker = (volume, side) => side ** 3 === volume && volume > 0 && side > 0;
+const a = 1;
